@@ -48,5 +48,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+        System.out.println("Hello World");
     }
 }
